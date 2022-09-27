@@ -6,11 +6,11 @@
 
 <div display=inline-block align=center>
 
-<a href="www.linkedin.com/in/aadithyasai">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-<a href="aadithyas0610@gmail.com">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="www.hackerrank.com/AadithyaSai">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
-<a href="www.leetcode.com/AadithyaSai/">![Leetcode](https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)</a>
-<a href="www.codechef.com/users/aadithyasai">![Codechef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/aadithyasai">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:aadithyas0610@gmail.com">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.hackerrank.com/AadithyaSai">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="https://www.leetcode.com/AadithyaSai/">![Leetcode](https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)</a>
+<a href="https://www.codechef.com/users/aadithyasai">![Codechef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 
 </div>
 
