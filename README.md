@@ -5,26 +5,33 @@
 <br/>
 
 <div display=inline-block align=center>
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/aadithyasai"> 
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="aadithyas0610@gmail.com"> 
-    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" href="www.hackerrank.com/AadithyaSai"> 
-    <img src="https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06" href="www.leetcode.com/AadithyaSai/"> 
-    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" href="www.codechef.com/users/aadithyasai")>
+
+<a href="www.linkedin.com/in/aadithyasai">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="aadithyas0610@gmail.com">![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="www.hackerrank.com/AadithyaSai">![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)</a>
+<a href="www.leetcode.com/AadithyaSai/">![Leetcode](https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06)</a>
+<a href="www.codechef.com/users/aadithyasai">![Codechef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
+
 </div>
 
-<br/><br/><br/>
+<br/>
 
 <div align=center>
     <h2>Languages</h2>
-    <img src="https://img.shields.io/badge/Pythom-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
 </div>
 
-<br/><br/>
+<br/>
 
+<div align=center>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadithyasai&layout=compact&theme=great-gatsby">
+</div>
+
+<br/>
 <div align=center>
     <h2>Software</h2>
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
@@ -32,7 +39,7 @@
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
 </div>
 
-<br/><br/>
+<br/>
 
 <div align=center>
     <img src="https://github-readme-stats.vercel.app/api?username=aadithyasai&count_private=true&show_icons=true&theme=great-gatsby">
@@ -41,5 +48,5 @@
 <br/><br/>
 
 <div align=center>
-    <img src="https://github-profile-trophy.vercel.app/?username=aadithyasai&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,">
+    <img src="https://github-profile-trophy.vercel.app/?username=aadithyasai&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,">
 </div>
