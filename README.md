@@ -1,16 +1,48 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=400&color=7DF74E&center=true&vCenter=true&width=600&height=80&lines=Hello%2C+World!;Hello%2C+I+am+Aadithya)](https://git.io/typing-svg)
 
-<!--
-**AadithyaSai/AadithyaSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+<br/>
 
-Here are some ideas to get you started:
+<div display=inline-block align=center>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" href="www.linkedin.com/in/aadithyasai"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" href="aadithyas0610@gmail.com"> 
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" href="www.hackerrank.com/AadithyaSai"> 
+    <img src="https://img.shields.io/badge/-leetcode-000000?style=for-the-badge&logo=leetcode&logoColor=d16c06" href="www.leetcode.com/AadithyaSai/"> 
+    <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" href="www.codechef.com/users/aadithyasai")>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/><br/><br/>
+
+<div align=center>
+    <h2>Languages</h2>
+    <img src="https://img.shields.io/badge/Pythom-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+    <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+</div>
+
+<br/><br/>
+
+<div align=center>
+    <h2>Software</h2>
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+    <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
+</div>
+
+<br/><br/>
+
+<div align=center>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=aadithyasai&count_private=true&show_icons=true&theme=merko">
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=aadithyasai&count_private=true&show_icons=true&theme=vue">
+        <img src="https://github-readme-stats.vercel.app/api?username=aadithyasai&count_private=true&show_icons=true&theme=merko">
+    </picture>
+</div>
+
+<br/><br/>
+
+<div align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=aadithyasai&theme=gruvbox&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,">
+</div>
