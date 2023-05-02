@@ -14,6 +14,11 @@
 
 </div>
 
+<div align=center>
+    <img src="https://komarev.com/ghpvc/?username=AadithyaSai&color=green&style=for-the-badge">
+</div>
+
+
 <br/>
 
 <div align=center>
@@ -50,4 +55,12 @@
 
 <div align=center>
     <img src="https://github-profile-trophy.vercel.app/?username=aadithyasai&theme=gruvbox&column=3&margin-w=15&margin-h=15&no-bg=true&title=Stars,Followers,PR,Commits,Repo,Issue,">
+</div>
+
+<br/>
+
+<div align=center>
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadithyaSai&theme=gruvbox&area=true)</a>
+
 </div>
