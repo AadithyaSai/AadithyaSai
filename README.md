@@ -58,9 +58,3 @@
 </div>
 
 <br/>
-
-<div align=center>
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">![Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AadithyaSai&theme=gruvbox&area=true)</a>
-
-</div>
