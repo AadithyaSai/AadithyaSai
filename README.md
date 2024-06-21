@@ -4,6 +4,10 @@
 
 <br/>
 
+<div align=center>
+    <img src="https://komarev.com/ghpvc/?username=AadithyaSai&color=green&style=for-the-badge">
+</div>
+
 <div display=inline-block align=center>
 
 <a href="https://www.linkedin.com/in/aadithyasai">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
@@ -13,11 +17,6 @@
 <a href="https://www.codechef.com/users/aadithyasai">![Codechef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)</a>
 
 </div>
-
-<div align=center>
-    <img src="https://komarev.com/ghpvc/?username=AadithyaSai&color=green&style=for-the-badge">
-</div>
-
 
 <br/>
 
@@ -48,6 +47,10 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
     <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
 </div>
+
+<br/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AadithyaSai&theme=github-compact&area)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>
 
